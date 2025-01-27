@@ -54,9 +54,9 @@ function Clients() {
 }
 
 export const metadata = {
-  title: 'Empowering Tomorrow’s Innovators',
+  title: 'Elixr Ventures',
   description:
-    'We are a development studio working at the intersection of design and technology, with a focus on collaboration and innovation.',
+    "Empowering Tomorrow's Innovators: Elixr's Approach to Private Equity Investment.",
 }
 
 export default async function Home() {
